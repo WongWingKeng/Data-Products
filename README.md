@@ -1,7 +1,7 @@
 # Developing-Data-Products
 
 This repo is for the Coursera Developing Data Products course. 
-It contains the course assignment - Shiny Application and Reproducibe Pitch Presentation.
+It contains the course assignment - Shiny Application and Reproducible Pitch Presentation.
 
 #Note
 
