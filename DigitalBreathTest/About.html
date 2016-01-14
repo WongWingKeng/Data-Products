@@ -1,0 +1,101 @@
+<p><strong><span style="font-size:20px">Digital Breath Test Screening Data Exploration</span></strong></p>
+
+<p>This Shiny App is for exploring and performing analysis on collected breath-test screening data for 2014.&nbsp;<br />
+The data are recorded by digital breath testing devices from the Police Authorities in England and Wales.</p>
+
+<p><strong>References:</strong><br />
+Source link to <u><a href="https://data.gov.uk/dataset/road-accidents-safety-data">DATA.GOV.UK, Road Safety Data</a></u></p>
+
+<p>*&nbsp;To access the raw data, expand the <strong>&quot;2014 Data Resources&quot; </strong>node, then search for <strong>&quot;2014 Road Safety - digital Breath Test Data 2014&quot;</strong>.&nbsp;&nbsp;<br />
+The raw dataset is available for download from above url link.&nbsp;<br />
+&nbsp;</p>
+
+<p><span style="font-size:20px"><strong>Taxonomy of variables in the Digital Breath Test Raw Dataset:&nbsp;</strong></span></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="height:403px; width:804px">
+	<thead>
+		<tr>
+			<th scope="col" style="text-align: left; background-color: rgb(255, 204, 0);">ITEM</th>
+			<th scope="col" style="text-align: left; background-color: rgb(255, 204, 0);">DESCRIPTION&nbsp;&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><span style="color:rgb(178, 34, 34)">Reason</span></td>
+			<td>Reason for administering digital breath test by police</td>
+		</tr>
+		<tr>
+			<td><span style="color:rgb(178, 34, 34)">Month</span></td>
+			<td>Month when roadside breath test was conducted (e.g. Jan, Feb, Mar, Apr etc.)</td>
+		</tr>
+		<tr>
+			<td><span style="color:rgb(178, 34, 34)">Year</span></td>
+			<td>Year when roadside breath test was conducted (e.g. 2009, 2010). <strong>This field is removed during data preparation since all data were from year 2014</strong>.</td>
+		</tr>
+		<tr>
+			<td><span style="color:rgb(178, 34, 34)">WeekType</span></td>
+			<td>Day type when roadside breath test was conducted (e.g. weekend, weekday)</td>
+		</tr>
+		<tr>
+			<td><span style="color:rgb(178, 34, 34)">TimeBand</span></td>
+			<td>Time period when breath test was conducted, in 4-hourly bands (e.g. 12am-4am, 4am-8am, 8am-12pm etc.)</td>
+		</tr>
+		<tr>
+			<td><span style="color:rgb(178, 34, 34)">BreathAlcoholLevel(microg/100ml)</span></td>
+			<td>Breath test reading from digital breath meter used by police officer (micrograms of alcohol per 100 milliletres of breath)</td>
+		</tr>
+		<tr>
+			<td><span style="color:rgb(178, 34, 34)">AgeBand</span></td>
+			<td>Age group (in years) of person administered the roadside breath test (e.g. 16-19, 20-24, 25-29, 30-39 etc.)</td>
+		</tr>
+		<tr>
+			<td><span style="color:rgb(178, 34, 34)">Gender</span></td>
+			<td>Gender of person administered the roadside breath test (e.g. male, female)</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><strong><span style="font-size:20px">Additional variables in dataset&nbsp;</span></strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+In this Shiny App, additional custom variables were added to raw dataset to facilitate easier reporting by aggregation/summation grouping.&nbsp;&nbsp;</p>
+
+<p><strong>The additional variables are as follow:</strong></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="height:131px; width:804px">
+	<thead>
+		<tr>
+			<th scope="col" style="text-align: left; background-color: rgb(255, 204, 0);">ITEM</th>
+			<th scope="col" style="text-align: left; background-color: rgb(255, 204, 0);">DESCRIPTION&nbsp;&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><span style="color:rgb(178, 34, 34)">Quarter</span></td>
+			<td>A variable to group records by quarters. To faciliate easier record grouping during record summation/aggregation function.</td>
+		</tr>
+		<tr>
+			<td><span style="color:rgb(178, 34, 34)">Test.Performed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></td>
+			<td>A dummy variable to faciliate total breath test record count during record summation/aggregation function.</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="color:rgb(178, 34, 34)">Alcohol.Detected&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+			<td>A variable to indicate whether alcohol were detected during the breath test. To facilitate positive/negative test record count during&nbsp; segregation /summation.</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><u><span style="font-size:20px"><strong>GitHub &nbsp;Repository</strong></span></u></p>
+
+<p>The following Shiny App&#39;s source files (<span style="color:rgb(255, 0, 0)">ui.R</span>, <span style="color:rgb(255, 0, 0)">server.R</span> and <span style="color:rgb(255, 0, 0)">BackEndProcessing.R</span>) are stored in GitHub.</p>
+
+<p>*Access following URL link to reach the source files&nbsp;:&nbsp;<u><a href="https://github.com/WongWingKeng/Data-Products">Git-Hub Data-Products</a></u>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>

@@ -1,0 +1,139 @@
+Reason,Month,WeekType,TimeBand,Breath.Alcohol.Level,AgeBand,Gender,Quarter,Test.Performed,Alcohol.Detected
+Suspicion of Alcohol,Jan,Weekday,12am-4am,0,30-39,Male,Q1,1,FALSE
+Road Traffic Collision,Jan,Weekday,12am-4am,280,16-19,Male,Q1,1,TRUE
+Other,Jan,Weekday,4am-8am,28,25-29,Male,Q1,1,TRUE
+Unknown,Jan,Weekday,4am-8am,45,30-39,Female,Q1,1,TRUE
+Suspicion of Alcohol,Jan,Weekday,8am-12pm,0,16-19,Male,Q1,1,FALSE
+Suspicion of Alcohol,Jan,Weekday,12am-4am,30,40-49,Male,Q1,1,TRUE
+Road Traffic Collision,Jan,Weekday,12pm-4pm,0,25-29,Male,Q1,1,FALSE
+Road Traffic Collision,Jan,Weekday,8am-12pm,0,30-39,Male,Q1,1,FALSE
+Road Traffic Collision,Jan,Weekday,8am-12pm,0,25-29,Male,Q1,1,FALSE
+Moving Traffic Violation,Jan,Weekday,8am-12pm,0,16-19,Male,Q1,1,FALSE
+Road Traffic Collision,Jan,Weekday,4pm-8pm,0,20-24,Male,Q1,1,FALSE
+Other,Jan,Weekday,12pm-4pm,111,50-59,Male,Q1,1,TRUE
+Road Traffic Collision,Jan,Weekday,4pm-8pm,0,50-59,Male,Q1,1,FALSE
+Road Traffic Collision,Feb,Weekend,4pm-8pm,0,20-24,Male,Q1,1,FALSE
+Suspicion of Alcohol,Feb,Weekend,12am-4am,0,25-29,Male,Q1,1,FALSE
+Other,Feb,Weekend,12am-4am,0,Other,Male,Q1,1,FALSE
+Moving Traffic Violation,Feb,Weekend,8am-12pm,0,30-39,Male,Q1,1,FALSE
+Suspicion of Alcohol,Feb,Weekend,12pm-4pm,0,70-98,Male,Q1,1,FALSE
+Suspicion of Alcohol,Feb,Weekend,8pm-12pm,0,20-24,Male,Q1,1,FALSE
+Road Traffic Collision,Feb,Weekend,8pm-12pm,0,50-59,Female,Q1,1,FALSE
+Suspicion of Alcohol,Feb,Weekend,12pm-4pm,0,30-39,Male,Q1,1,FALSE
+Road Traffic Collision,Feb,Weekend,4pm-8pm,0,40-49,Male,Q1,1,FALSE
+Road Traffic Collision,Feb,Weekend,8am-12pm,0,30-39,Male,Q1,1,FALSE
+Suspicion of Alcohol,Feb,Weekend,4pm-8pm,0,40-49,Male,Q1,1,FALSE
+Suspicion of Alcohol,Feb,Weekend,8pm-12pm,20,25-29,Male,Q1,1,TRUE
+Moving Traffic Violation,Feb,Weekend,4am-8am,0,50-59,Male,Q1,1,FALSE
+Road Traffic Collision,Feb,Weekend,4pm-8pm,0,40-49,Male,Q1,1,FALSE
+Road Traffic Collision,Feb,Weekend,12am-4am,13,20-24,Male,Q1,1,TRUE
+Suspicion of Alcohol,Feb,Weekend,12am-4am,15,20-24,Male,Q1,1,TRUE
+Moving Traffic Violation,Feb,Weekend,12am-4am,25,20-24,Male,Q1,1,TRUE
+Suspicion of Alcohol,Feb,Weekend,12am-4am,0,30-39,Female,Q1,1,FALSE
+Road Traffic Collision,Feb,Weekend,8am-12pm,0,50-59,Female,Q1,1,FALSE
+Moving Traffic Violation,Feb,Weekend,4pm-8pm,0,40-49,Unknown,Q1,1,FALSE
+Moving Traffic Violation,Feb,Weekend,8pm-12pm,0,20-24,Male,Q1,1,FALSE
+Suspicion of Alcohol,Mar,Weekend,12am-4am,0,30-39,Male,Q1,1,FALSE
+Road Traffic Collision,Mar,Weekend,4pm-8pm,0,25-29,Female,Q1,1,FALSE
+Moving Traffic Violation,Mar,Weekend,8pm-12pm,0,20-24,Male,Q1,1,FALSE
+Other,Mar,Weekend,12am-4am,0,16-19,Female,Q1,1,FALSE
+Road Traffic Collision,Mar,Weekend,12pm-4pm,0,30-39,Male,Q1,1,FALSE
+Moving Traffic Violation,Mar,Weekend,12am-4am,0,40-49,Male,Q1,1,FALSE
+Moving Traffic Violation,Mar,Weekend,12am-4am,0,20-24,Male,Q1,1,FALSE
+Road Traffic Collision,Mar,Weekend,8am-12pm,0,70-98,Male,Q1,1,FALSE
+Other,Mar,Weekend,4pm-8pm,0,Other,Male,Q1,1,FALSE
+Road Traffic Collision,Apr,Weekday,8am-12pm,0,40-49,Male,Q2,1,FALSE
+Road Traffic Collision,Apr,Weekday,8am-12pm,0,40-49,Male,Q2,1,FALSE
+Road Traffic Collision,Apr,Weekday,8am-12pm,0,40-49,Female,Q2,1,FALSE
+Road Traffic Collision,Apr,Weekday,4pm-8pm,0,60-69,Male,Q2,1,FALSE
+Road Traffic Collision,Apr,Weekday,4pm-8pm,0,70-98,Male,Q2,1,FALSE
+Suspicion of Alcohol,Apr,Weekend,4am-8am,0,30-39,Male,Q2,1,FALSE
+Road Traffic Collision,Apr,Weekend,4am-8am,0,20-24,Male,Q2,1,FALSE
+Moving Traffic Violation,May,Weekday,4pm-8pm,0,50-59,Male,Q2,1,FALSE
+Road Traffic Collision,May,Weekday,12pm-4pm,0,16-19,Male,Q2,1,FALSE
+Road Traffic Collision,May,Weekday,12pm-4pm,0,Other,Female,Q2,1,FALSE
+Moving Traffic Violation,May,Weekday,8pm-12pm,0,30-39,Male,Q2,1,FALSE
+Road Traffic Collision,May,Weekday,4pm-8pm,0,50-59,Male,Q2,1,FALSE
+Road Traffic Collision,May,Weekday,8pm-12pm,0,20-24,Male,Q2,1,FALSE
+Road Traffic Collision,May,Weekday,12pm-4pm,0,60-69,Male,Q2,1,FALSE
+Unknown,May,Weekday,8am-12pm,0,40-49,Female,Q2,1,FALSE
+Road Traffic Collision,May,Weekday,12pm-4pm,0,50-59,Male,Q2,1,FALSE
+Suspicion of Alcohol,May,Weekday,12am-4am,7,20-24,Male,Q2,1,TRUE
+Road Traffic Collision,May,Weekday,8am-12pm,0,40-49,Male,Q2,1,FALSE
+Road Traffic Collision,Jun,Weekend,12pm-4pm,0,25-29,Female,Q2,1,FALSE
+Road Traffic Collision,Jun,Weekend,12pm-4pm,0,70-98,Male,Q2,1,FALSE
+Suspicion of Alcohol,Jun,Weekend,12am-4am,31,40-49,Male,Q2,1,TRUE
+Moving Traffic Violation,Jun,Weekend,4pm-8pm,0,30-39,Male,Q2,1,FALSE
+Moving Traffic Violation,Jun,Weekend,4am-8am,61,20-24,Female,Q2,1,TRUE
+Moving Traffic Violation,Jun,Weekend,8pm-12pm,0,20-24,Male,Q2,1,FALSE
+Moving Traffic Violation,Jun,Weekend,8pm-12pm,0,60-69,Male,Q2,1,FALSE
+Moving Traffic Violation,Jun,Weekend,4pm-8pm,110,40-49,Male,Q2,1,TRUE
+Road Traffic Collision,Jun,Weekend,4pm-8pm,23,25-29,Male,Q2,1,TRUE
+Other,Jul,Weekday,4pm-8pm,13,Other,Male,Q3,1,TRUE
+Moving Traffic Violation,Jul,Weekday,4pm-8pm,0,30-39,Male,Q3,1,FALSE
+Suspicion of Alcohol,Jul,Weekday,12am-4am,21,30-39,Male,Q3,1,TRUE
+Road Traffic Collision,Jul,Weekday,8am-12pm,0,20-24,Male,Q3,1,FALSE
+Road Traffic Collision,Jul,Weekday,12pm-4pm,0,25-29,Male,Q3,1,FALSE
+Other,Jul,Weekday,8am-12pm,0,60-69,Female,Q3,1,FALSE
+Other,Jul,Weekday,4am-8am,27,40-49,Male,Q3,1,TRUE
+Road Traffic Collision,Aug,Weekday,8am-12pm,0,40-49,Female,Q3,1,FALSE
+Road Traffic Collision,Aug,Weekday,12pm-4pm,0,60-69,Male,Q3,1,FALSE
+Road Traffic Collision,Aug,Weekday,4pm-8pm,0,40-49,Male,Q3,1,FALSE
+Road Traffic Collision,Aug,Weekday,8pm-12pm,0,20-24,Female,Q3,1,FALSE
+Road Traffic Collision,Aug,Weekday,4pm-8pm,0,20-24,Female,Q3,1,FALSE
+Road Traffic Collision,Aug,Weekday,4pm-8pm,0,50-59,Female,Q3,1,FALSE
+Road Traffic Collision,Aug,Weekday,12pm-4pm,0,70-98,Male,Q3,1,FALSE
+Moving Traffic Violation,Aug,Weekday,8pm-12pm,3,60-69,Male,Q3,1,TRUE
+Road Traffic Collision,Aug,Weekday,8pm-12pm,0,25-29,Female,Q3,1,FALSE
+Suspicion of Alcohol,Aug,Weekday,8pm-12pm,0,20-24,Female,Q3,1,FALSE
+Moving Traffic Violation,Aug,Weekday,12am-4am,17,25-29,Male,Q3,1,TRUE
+Moving Traffic Violation,Aug,Weekday,4pm-8pm,0,20-24,Male,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,4am-8am,0,20-24,Male,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,12pm-4pm,0,40-49,Female,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,4pm-8pm,0,25-29,Male,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,4am-8am,0,20-24,Female,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,8am-12pm,0,30-39,Male,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,12pm-4pm,0,16-19,Male,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,4am-8am,0,30-39,Male,Q3,1,FALSE
+Suspicion of Alcohol,Sep,Weekday,4am-8am,68,30-39,Male,Q3,1,TRUE
+Road Traffic Collision,Sep,Weekday,8pm-12pm,0,40-49,Male,Q3,1,FALSE
+Moving Traffic Violation,Sep,Weekday,8am-12pm,0,25-29,Male,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,8pm-12pm,0,40-49,Male,Q3,1,FALSE
+Suspicion of Alcohol,Sep,Weekday,4pm-8pm,0,40-49,Male,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,12am-4am,0,20-24,Male,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,12pm-4pm,0,40-49,Female,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,4pm-8pm,0,40-49,Male,Q3,1,FALSE
+Suspicion of Alcohol,Sep,Weekday,4pm-8pm,0,40-49,Male,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,4pm-8pm,0,40-49,Female,Q3,1,FALSE
+Suspicion of Alcohol,Sep,Weekday,12am-4am,0,20-24,Male,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,8am-12pm,0,40-49,Male,Q3,1,FALSE
+Suspicion of Alcohol,Sep,Weekday,8am-12pm,86,50-59,Male,Q3,1,TRUE
+Moving Traffic Violation,Sep,Weekday,8pm-12pm,0,16-19,Female,Q3,1,FALSE
+Road Traffic Collision,Sep,Weekday,12am-4am,0,30-39,Male,Q3,1,FALSE
+Road Traffic Collision,Oct,Weekday,12pm-4pm,0,40-49,Male,Q4,1,FALSE
+Other,Oct,Weekday,8pm-12pm,65,25-29,Male,Q4,1,TRUE
+Moving Traffic Violation,Oct,Weekday,12am-4am,41,16-19,Male,Q4,1,TRUE
+Road Traffic Collision,Oct,Weekday,12pm-4pm,0,20-24,Male,Q4,1,FALSE
+Road Traffic Collision,Oct,Weekday,4pm-8pm,0,40-49,Male,Q4,1,FALSE
+Unknown,Oct,Weekday,4pm-8pm,0,25-29,Male,Q4,1,FALSE
+Unknown,Oct,Weekday,8pm-12pm,12,25-29,Male,Q4,1,TRUE
+Moving Traffic Violation,Oct,Weekday,4am-8am,0,20-24,Male,Q4,1,FALSE
+Moving Traffic Violation,Oct,Weekday,4am-8am,0,50-59,Male,Q4,1,FALSE
+Suspicion of Alcohol,Nov,Weekend,12am-4am,0,25-29,Male,Q4,1,FALSE
+Moving Traffic Violation,Nov,Weekend,12pm-4pm,0,50-59,Male,Q4,1,FALSE
+Road Traffic Collision,Nov,Weekend,4pm-8pm,0,40-49,Male,Q4,1,FALSE
+Road Traffic Collision,Nov,Weekend,4am-8am,0,30-39,Female,Q4,1,FALSE
+Moving Traffic Violation,Nov,Weekend,8pm-12pm,115,40-49,Male,Q4,1,TRUE
+Road Traffic Collision,Nov,Weekend,4am-8am,0,30-39,Male,Q4,1,FALSE
+Moving Traffic Violation,Nov,Weekend,8am-12pm,0,25-29,Male,Q4,1,FALSE
+Moving Traffic Violation,Nov,Weekend,12am-4am,0,40-49,Male,Q4,1,FALSE
+Moving Traffic Violation,Dec,Weekday,8am-12pm,0,30-39,Female,Q4,1,FALSE
+Road Traffic Collision,Dec,Weekday,8am-12pm,0,30-39,Male,Q4,1,FALSE
+Unknown,Dec,Weekday,12pm-4pm,0,20-24,Female,Q4,1,FALSE
+Road Traffic Collision,Dec,Weekday,4pm-8pm,0,30-39,Female,Q4,1,FALSE
+Moving Traffic Violation,Dec,Weekday,8pm-12pm,0,50-59,Male,Q4,1,FALSE
+Moving Traffic Violation,Dec,Weekday,8pm-12pm,0,50-59,Male,Q4,1,FALSE
+Moving Traffic Violation,Dec,Weekday,8pm-12pm,0,50-59,Male,Q4,1,FALSE
+Moving Traffic Violation,Dec,Weekday,8pm-12pm,0,30-39,Male,Q4,1,FALSE
+Other,Dec,Weekday,8am-12pm,0,70-98,Male,Q4,1,FALSE
+Other,Dec,Weekday,12pm-4pm,0,25-29,Male,Q4,1,FALSE
