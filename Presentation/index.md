@@ -79,5 +79,8 @@ Try out the complete App now at
 </div>
 
 <small> For any support issue or enquiry, contact me at  
-<2wk@mail.com> </small>
+<2wk@mail.com>  
+Visit [Git Hub Repo] (https://github.com/WongWingKeng/Data-Products)
+</small>
+
 
